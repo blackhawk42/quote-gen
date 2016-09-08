@@ -11,4 +11,5 @@ gulp.task('watch',function () {
 	gulp.watch('src/js/**/*.js',['scripts']);
 	gulp.watch('src/sass/**/*.sass',['sass']);
 	gulp.watch('src/img/**/*',['img']);
+	gulp.watch('src/pug/**/*.pug',['pug']);
 });

@@ -1,1 +1,1 @@
-.container{max-width:90%;font-size:12;color:red}
+.external,.internal{padding:5%;border-radius:25px}.internal,.main{text-align:center}.center-parent{display:flex;justify-content:center;align-items:center}.external{background:grey;margin:5% 5% 5px}.internal{margin-top:5%;margin-bottom:5%}.btn{margin:0}
